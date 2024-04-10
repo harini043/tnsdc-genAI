@@ -1,1 +1,3 @@
-# tnsdc-genAI
+# Traffic sign recognition
+ To develop a robust traffic sign recognition system using Convolutional Neural Networks (CNNs) and Keras to enhance road safety and efficiency in transportation systems.Collect and preprocess a diverse dataset of labeled traffic sign images, design and train a CNN model for accurate detection and classification of traffic signs, and evaluate the model's performance before deploying it into real-world applications.It is used  to train model into autonomous vehicles, traffic monitoring systems, and other traffic management applications, with continuous monitoring and maintenance to ensure sustained performance and contribute to improved road safety and efficiency.
+![image](https://github.com/harini043/tnsdc-genAI/assets/103037035/787f036f-3b7d-4770-a5d4-051e8cd189e4)
